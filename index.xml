@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan M. Hoffman</title>
+    <link>https://ryanmhoffman.github.io/index.xml</link>
+    <description>Recent content on Ryan M. Hoffman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 RMH Companies; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 03 Nov 2016 21:49:20 +0200</lastBuildDate>
+    <atom:link href="https://ryanmhoffman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mobile Friendly Websites</title>
+      <link>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</link>
+      <pubDate>Thu, 03 Nov 2016 21:49:20 +0200</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</guid>
+      <description>
+
+&lt;h2 id=&#34;why-should-i-make-my-website-mobile-friendly&#34;&gt;Why Should I Make My Website Mobile Friendly?&lt;/h2&gt;
+
+&lt;p&gt;Practically everyone is on a mobile phone now. As of 2016 there are &lt;a href=&#34;https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/&#34;&gt;2.1 billion smartphone users&lt;/a&gt;.
+Even more impressive is more than &lt;a href=&#34;https://www.thinkwithgoogle.com/research-studies/creating-moments-that-matter.html&#34;&gt;3 out of 4 people&lt;/a&gt; would choose to search the internet on their phone over a desktop computer even if they had easy access to a desktop computer. Why? It&amp;rsquo;s faster and easier. I have an old Moto X from 2013, the original one. It is 3 years old, and I don&amp;rsquo;t even know how it&amp;rsquo;s still alive. But it is still quicker for me to search on that old phone than to log into my desktop computer, even if I&amp;rsquo;m in the same room as my computer. I can say &amp;ldquo;OK Google&amp;rdquo; and then ask it a question and get an answer without ever pulling it out of my pocket. People are impatient. If your site takes more than a few seconds to load they will not wait. If it loads and is a full desktop site on a tiny 5 inch screen they will almost definitely leave. Who wants to zoom in to make text readable then have to slide all around the screen to try to read each sentence? Not me&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I said all that to say this: if you haven&amp;rsquo;t updated your website to make it mobile friendly you are most likely losing customers. Google
+have created a great tool to test if your site is mobile friendly. Just go &lt;a href=&#34;https://www.google.com/webmasters/tools/mobile-friendly/&#34;&gt;here&lt;/a&gt; and enter your url.&lt;/p&gt;
+
+&lt;p&gt;But what if it says your site is not mobile friendly?&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-i-make-my-website-mobile-friendly&#34;&gt;How Can I Make My Website Mobile Friendly?&lt;/h2&gt;
+
+&lt;p&gt;The good news is it is easier than ever to make a mobile website. There are dozens of frameworks available that can be used to make a
+beautiful desktop site that scales perfectly onto smaller screens. One of the most popular is &lt;a href=&#34;https://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;. If
+you have the technical knowledge you can migrate an entire smaller website in just a day or two. But what if you don&amp;rsquo;t have the technical knowledge? It&amp;rsquo;s time to start thinking about hiring a web developer. I know what you&amp;rsquo;re probably thinking: that sounds Expensive. And it can be if you don&amp;rsquo;t do your homework first. But it can also be one of the best investments you can make in this mobile driven world.&lt;/p&gt;
+
+&lt;p&gt;Freelancing is gaining more and more popularity each year, and there are some very talented people out there who freelance full time. I
+began freelancing in my spare time, and I love it. You can hire a freelancer to either update or completely rebuild your website and it
+will be mobile friendly from the ground up.&lt;/p&gt;
+
+&lt;p&gt;If you think it is time to redo your website and aren&amp;rsquo;t sure where to start, please feel free to &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me. I do freelance
+web design and development and I would love to work with you on your next project.&lt;/p&gt;
+
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;If you are looking for more resources on optimizing your site I recommend checking out &lt;a href=&#34;https://developers.google.com/webmasters/mobile-sites/&#34;&gt;Google&amp;rsquo;s page&lt;/a&gt; on this topic. They cover it very well and even have tutorials if you want to tackle it yourself.&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this post, please check back later for more thoughts. I post new content weekly. Until then you can follow me on twitter &lt;a href=&#34;https://www.twitter.com/hoffmanryan1&#34;&gt;@hoffmanryan1&lt;/a&gt; and medium &lt;a href=&#34;https://www.medium.com/@rmhcompanies&#34;&gt;@rmhcompanies&lt;/a&gt; for other non-tech related content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CBT Velocity Android App</title>
+      <link>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</link>
+      <pubDate>Wed, 02 Nov 2016 13:47:08 +0200</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;
+
+&lt;p&gt;This app was created for high school students. Specifically, the high school students in my church, Canton
+Baptist Temple, who are a part of the youth group which is called - as you might have guessed, Velocity.
+The thinking behind this is pretty simple and makes a lot of sense if you have ever spent any time around
+high school students. The issue is that no matter how many times you tell them something, they still have
+no idea what you said - unless you put it right in front of them on their phone.&lt;/p&gt;
+
+&lt;p&gt;The problem we had was that we would announce class activities, mail out fliers, and have sign up sheets
+in the class, yet we would still have parents and students calling a couple days before hand to ask for
+all the details we had already made sure were available. We decided the best way to get them this info
+was on their phone in an app with notifications and reminders and all the details they need.&lt;/p&gt;
+
+&lt;h2 id=&#34;development-and-vision&#34;&gt;Development and Vision&lt;/h2&gt;
+
+&lt;p&gt;CBT Velocity is a native app designed for the Android platform. It is coded in Java and XML, and I host
+all of the content used in the app on my LAMP (Linux Apache MySQL PHP) server. As you can tell from the
+screenshots I used material design for the UI/UX and I tried to keep it simple with a card based layout.
+The cards are set in a RecyclerView and each card is retrieved over the network from my server. The
+navigation drawer contains links to other related social media pages, and to the settings, where you can
+configure data/wifi usage and turn notifications on/off.&lt;/p&gt;
+
+&lt;p&gt;There are a couple things not implemented yet that I plan to add eventually. The first is going to be
+in-app sign up for activities. I want the students to be able to log in to the app, click on the activity
+and sign up there instead of the paper sheets we have in the class. The next one piggy-backs on that, and
+it is to have in app payment for the activities. Instead of remembering to bring $20 to church or to the
+activity, they should be able to log in and securely pay us right from within the app.&lt;/p&gt;
+
+&lt;p&gt;The whole app is open source, please check it out at &lt;a href=&#34;https://github.com/ernieb4768/CBTVelocity&#34;&gt;github&lt;/a&gt;
+and let me know what you think!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Development: Native vs Cross-Platform</title>
+      <link>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</link>
+      <pubDate>Tue, 01 Nov 2016 13:07:31 +0200</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</guid>
+      <description>
+
+&lt;h3 id=&#34;should-you-even-develop-for-mobile&#34;&gt;Should You Even Develop for Mobile?&lt;/h3&gt;
+
+&lt;p&gt;In a word, yes. Mobile development is growing to be more and more important every single year. Every day
+people spend more time on their phones, tablets and other mobile devices. As of
+&lt;a href=&#34;https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/&#34;&gt;June 2016&lt;/a&gt;
+there are over 2.2 million apps available in the Play Store and over 2 million in the App Store.
+&lt;a href=&#34;http://www.digitaltrends.com/mobile/informate-report-social-media-smartphone-use/&#34;&gt;This article&lt;/a&gt; from
+back in 2015 says that the average American spends 4.7 hours &lt;em&gt;per day&lt;/em&gt; on their phone! That&amp;rsquo;s nearly a
+third of our waking hours each day! If you want some of that screen time to be dedicated to your app then
+you better think very carefully about what type of app you want to deliver to your users. So what will it
+be, native or cross-platform?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-case-for-native-apps&#34;&gt;The Case for Native Apps&lt;/h3&gt;
+
+&lt;p&gt;Native apps, generally speaking, offer a better experience when compared to a similarly developed
+cross-platform app. This isn&amp;rsquo;t always true, and it definitely doesn&amp;rsquo;t mean that you should only choose to
+launch native apps. These are a few reasons why you should consider going native.&lt;/p&gt;
+
+&lt;p&gt;Native apps are designed to be platform specific, so they feel more comfortable for the user. This is
+incredibly important because &lt;a href=&#34;http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/?utm_content=buffere4fa2&amp;amp;utm_medium=twitter.com&amp;amp;utm_source=social&amp;amp;utm_campaign=buffer&#34;&gt;77% of users will delete your app&lt;/a&gt;
+within 72 hours of downloading it. That number will only go up if the design is not familiar and
+comfortable for your users. On Android, Google have created Material Design as the standard. Most of the
+popular apps in the Play Store have already shifted to conform to this style, and it has become normal for
+Android users. On iOS, Apple have their own design guidelines that is different from Material Design.
+There are certain navigation patterns that are different and other animations and visual queues that might
+mean something different on each platform. By developing a native app for each os you can bring the little
+things from the design standards out and make your app easier and more enjoyable for your users.&lt;/p&gt;
+
+&lt;p&gt;Another big bonus for native apps is the increased performance you get from them. When developing for
+Android, an app written in Java will &lt;em&gt;almost&lt;/em&gt; always be faster than one developed in Javascript or some
+other web language. The same goes for iOS apps written in Swift or Objective-C; they will &lt;em&gt;almost&lt;/em&gt; always
+be faster than their cross-platform counterparts. This is because the APIs are developed in the native
+language by Google or Apple. Usually cross-platform apps are developed using Javascript or a language
+that compiles to Javascript, and the large libraries and other code can end up running much slower on
+the phone or tablet than well developed native code.&lt;/p&gt;
+
+&lt;p&gt;Certain hardware related features like gestures, multi-touch, and various other sensor related components
+like GPS, accelerometer and gyroscope are simpler to access and use in native apps. Most of the time
+there are very straight forward APIs or libraries that allow access to these components. These are more
+advanced functionalities and might not be necessary in all apps, but it is important to keep in mind when
+deciding what is right for you and your idea.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-case-for-cross-platform&#34;&gt;The Case for Cross-Platform&lt;/h3&gt;
+
+&lt;p&gt;Cross-platform apps are easier to create and can cut down your development time significantly. The main
+selling point here is that you have a single code base to maintain for all users on all operating systems.
+The idea here is that you create one app, which is then optimized and packaged properly for each platform
+and published in each marketplace.&lt;/p&gt;
+
+&lt;p&gt;After reading the section about native apps and seeing all the features and speed you might be thinking
+that&amp;rsquo;s the way to go, but I challenge you to think about this. You have an idea for an app, maybe you
+have a website and you want to take it a step further and turn it into a full on app. You already have
+the website to maintain, all the code that goes along with it, and the headaches from hosting it. Now you
+decide to make apps for Android and iOS. Maybe you are a code ninja and already know Java and Swift, so
+that saves you time and money because you don&amp;rsquo;t have to learn new technology or hire a freelancer to do
+it for you. But you start writing the iOS app first and after a couple weeks it is ready to publish, but
+you don&amp;rsquo;t want to launch it without the Android app also. So you sit down and bang out that app in a
+couple more weeks. Now both are ready to go so you submit them to their respective app stores. The good
+news is they look great and are blazing fast, but now every time you want to make a change to your
+website you have three different apps in three different code bases to maintain and update. Then a few
+of your crazy followers get the new Windows phone and are still on the mobile version of your site
+because no app exists for them. What now?&lt;/p&gt;
+
+&lt;p&gt;Now contrast this with a cross-platform app. You can use most if not all of your existing Javascript
+from your website when creating the app. Once development is complete you can optimize the code for each
+platform and publish to each app store. Every time you want to make a change to your website you can make
+the changes to the app code also and everything will look great and up to date across all platforms. If
+you have users with Windows Phone or Firefox OS or anything else you can use the same code to publish to
+their app stores and have good looking apps for them too.&lt;/p&gt;
+
+&lt;p&gt;So what&amp;rsquo;s the catch? What you gain in simplicity you will lose in functionality. There may be a trade off
+in speed as well although I doubt it if you are simply converting a website into a web app. The biggest
+drawback will be trying to implement new features and meet the design standards of each platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;which-is-right-for-you&#34;&gt;Which Is Right For You?&lt;/h3&gt;
+
+&lt;p&gt;This is a question that you are going to have to answer for yourself. If your idea is something small and
+simple like converting your website into an app then cross-platform might be the way to go for you. Other
+things like tip calculators and simple note taking apps usually have simple UI&amp;rsquo;s and are good candidates
+for cross-platform apps. More complex apps that rely on sensors in the phone or things like multi-touch
+are probably better off as native apps.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day you need to evaluate your business or your idea and decide which choice is right
+for you. Making a list of required features is a great way to see exactly what will be involved in
+development and will probably make the decision much easier for you. Remember that there is no &amp;ldquo;right&amp;rdquo;
+answer and even if you start out with a simple cross-platform app you can always scale up to a native app
+and update from there. Good luck and happy developing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making This Website</title>
+      <link>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</link>
+      <pubDate>Tue, 01 Nov 2016 03:39:46 +0200</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I built this website for a couple different purposes. I wanted a place to showcase my portfolio and direct
+potential clients for my freelance business. I also wanted to build a blog. I decided that the two ideas
+related enough to warrant being one site. I also wanted something simple that wouldn&amp;rsquo;t take weeks to
+create and be a nightmare to host. I did some research and settled on using &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a
+static site generator built with the &lt;a href=&#34;https://golang.org/&#34;&gt;go programming language&lt;/a&gt; by Google. I went with
+a static site because I wanted something fast and easy to develop AND fast when being served. Hugo checked
+both of those boxes. All in from the time I first discovered hugo to the time I deployed this site on
+&lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt; was about 8 hours of work. That was spread over two evenings,
+but you get my point on how easy it was to learn and use.&lt;/p&gt;
+
+&lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;I wanted something modern that would scale well across desktop and mobile, and again hugo had me covered.
+there are tons of &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt; for hugo that make design a breeze. I ended up
+choosing &lt;a href=&#34;https://themes.gohugo.io/hugo-universal-theme/&#34;&gt;universial theme&lt;/a&gt;. This had everything I was
+looking for and was a joy to work with and modify to suit my needs. Shout-out to &lt;a href=&#34;https://bootstrapious.com/p/universal-business-e-commerce-template&#34;&gt;Bootstrapious&lt;/a&gt;
+for creating the original design and to &lt;a href=&#34;https://www.devcows.com/&#34;&gt;DevCows&lt;/a&gt; for porting it to hugo.
+Fantastic job!&lt;/p&gt;
+
+&lt;h2 id=&#34;development&#34;&gt;Development&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned earlier this took me about 8 hours total to build. I was expecting to spend a week or more
+easily, as building a portfolio site and a blog is a relatively small project but by no means is it &amp;ldquo;easy.&amp;rdquo;
+The blog is probably my favorite part. Publishing a new blog post is as simple as copying the markdown
+file into a folder, rebuilding the site and seeing it pop up.&lt;/p&gt;
+
+&lt;p&gt;Since it is a static site and there is no database or php/node.js etc., there aren&amp;rsquo;t any comments&amp;hellip; or
+so you would think. But with &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt; it is very easy to add comments even without
+any of the server side scripts. Currently I don&amp;rsquo;t have this enabled, but it is something I might look into
+in the future.&lt;/p&gt;
+
+&lt;p&gt;Another genius feature included was in the &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; section. Again, no server side scripts to
+handle the form, but it was all thought out. &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree.io&lt;/a&gt; is included to handle
+all of the emails to make sure you get them delivered to your inbox. It is a very straightforward setup,
+and the best part is it&amp;rsquo;s free! If you exceed 1000 emails in a month there is a subscription plan, but I&amp;rsquo;m
+not there yet.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This has been a great experience using hugo to build my website. I&amp;rsquo;m very happy with the outcome, and I
+would highly recommend checking it out. I may come back and update this after spending more time
+maintaining and updating the site, but currently I&amp;rsquo;m thrilled.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, please continue to check back periodically. I add new content weekly. For even more
+frequent updates follow my on twitter &lt;a href=&#34;https://www.twitter.com/hoffmanryan1&#34;&gt;@hoffmanryan1&lt;/a&gt; and you can
+check out my non-tech related ramblings over at my blog on medium &lt;a href=&#34;https://www.medium.com/@rmhcompanies&#34;&gt;@rmhcompanies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ryanmhoffman.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
+
+&lt;p&gt;Got a question? Are you looking for someone to develop a brand new app for your business? Maybe your
+website needs to be brought out of the stone ages and optimized for mobile devices. Please reach out
+to me. I will get back to you. I would love to handle your next project.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to contact me with any questions, concerns, or just to say hello.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://ryanmhoffman.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/faq/</guid>
+      <description>
+
+&lt;p&gt;These are just a few of the most common questions I get. If your question is not answered here please feel free to &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact me&lt;/a&gt;. I will respond as quickly as I can.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-can-you-make-a-website-for-me&#34;&gt;1. CAN YOU MAKE A WEBSITE FOR ME?&lt;/h2&gt;
+
+&lt;p&gt;Yes! I can build you a brand new website that will look great on any screen, from a full size desktop monitor down to your phone. If you already have a website that is outdated I can optimize it for the mobile web and make it look great again. &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;Contact me&lt;/a&gt; for pricing.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-can-you-make-an-app-for-me&#34;&gt;2. CAN YOU MAKE AN APP FOR ME?&lt;/h2&gt;
+
+&lt;p&gt;Yes! I am currently focused on building Android apps, but if you have an idea and it needs to run both I can build a version for iPhone as well. If you need an app for your business or you have a great idea for a new app but you don&amp;rsquo;t have the experience to build it, lets partner!&lt;/p&gt;
+
+&lt;h2 id=&#34;3-will-you-share-my-idea-with-anyone&#34;&gt;3. WILL YOU SHARE MY IDEA WITH ANYONE?&lt;/h2&gt;
+
+&lt;p&gt;Absolutely not. If you come to me with an idea for an app or website idea I will never share it with anyone. I respect your ideas as your property, and even if we don&amp;rsquo;t end up working together on that idea I will never share it with anyone.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-what-are-your-rates&#34;&gt;4. WHAT ARE YOUR RATES?&lt;/h2&gt;
+
+&lt;p&gt;Send me an &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;email&lt;/a&gt; and I will be happy to discuss pricing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me and I will be happy to help you.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
