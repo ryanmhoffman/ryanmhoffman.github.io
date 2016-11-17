@@ -10,14 +10,14 @@
     <atom:link href="https://ryanmhoffman.github.io/categories/android/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CBT Velocity Android App</title>
+      <title>Android Constraint Layout</title>
       <link>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</link>
       <pubDate>Tue, 15 Nov 2016 13:47:08 +0200</pubDate>
       
       <guid>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</guid>
       <description>
 
-&lt;h2 id=&#34;android-constraint-layout&#34;&gt;Android Constraint Layout&lt;/h2&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;There are many different views and view groups in the Android infrastructure. Some are more useful than
 others, but they all have their place. Recently, Google released a new layout called ConstraintLayout.&lt;/p&gt;
