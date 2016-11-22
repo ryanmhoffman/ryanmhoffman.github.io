@@ -7,8 +7,144 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 RMH Companies; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Nov 2016 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2016 13:47:08 +0200</lastBuildDate>
     <atom:link href="https://ryanmhoffman.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android Studio Keyboard Shortcuts</title>
+      <link>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</link>
+      <pubDate>Mon, 21 Nov 2016 13:47:08 +0200</pubDate>
+      
+      <guid>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</guid>
+      <description>
+
+&lt;h2 id=&#34;android-studio-shortcuts&#34;&gt;Android Studio Shortcuts&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/android-studio.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have used Android Studio for even a short time I&amp;rsquo;m sure you have found some shortcuts and hot keys
+to speed up your coding and keep your hands on the keyboard where they belong! I&amp;rsquo;m going to run through
+some of the shortcuts I find most useful. Android Studio is built by Google, but it is based on Jetbrains
+Intellij Community Edition Java IDE. This means that all of the Intellij shortcut keys work on Android
+Studio, but Google have added a few of their own. Let&amp;rsquo;s jump into some of the best ones.&lt;/p&gt;
+
+&lt;h3 id=&#34;searching-for-a-shortcut&#34;&gt;Searching For A Shortcut&lt;/h3&gt;
+
+&lt;p&gt;Stop me if this has happened to you before. You read an awesome tutorial on shortcuts and hot keys in
+Android Studio and found a few that looked really useful, but when you sit down and start coding you
+can&amp;rsquo;t remember what they were. Fortunately someone thought of this and made several several search
+functions.&lt;/p&gt;
+
+&lt;h4 id=&#34;search-everywhere&#34;&gt;Search everywhere:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Shift Shift&lt;/strong&gt; (Windows, Linux, Mac)
+This searches literally everywhere. It can even search outside of the scope of your project if you want
+it to (every file on your computer). Thankfully it groups what it finds into categories, with the most
+recent files first.&lt;/p&gt;
+
+&lt;h4 id=&#34;search-for-commands&#34;&gt;Search for commands:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Command + Shift + A&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + Shift + A&lt;/strong&gt; (Windows, Linux)
+This searches for any command. If you know there is a way to jump to the next error in your code but you
+can&amp;rsquo;t remember what it is, just use this command and start typing &amp;ldquo;error&amp;rdquo; and it will intelligently find
+it. This works for any command. If you only want to memorize one shortcut, this is the one.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation&#34;&gt;Navigation&lt;/h3&gt;
+
+&lt;p&gt;Here are a few more ways to keep your hands off the mouse and still get around your project quickly.&lt;/p&gt;
+
+&lt;h4 id=&#34;jump-to-class&#34;&gt;Jump to Class&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Command + O&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + N&lt;/strong&gt; (Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;jump-to-file&#34;&gt;Jump to File&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Command + Shift + O&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + Shift + N&lt;/strong&gt; (Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;jump-to-method&#34;&gt;Jump to Method&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Control + Up/Down&lt;/strong&gt; (Mac)
+&lt;strong&gt;Alt + Up/Down&lt;/strong&gt; (Windows, Linux)
+Up is the previous method, down is the next method.&lt;/p&gt;
+
+&lt;h3 id=&#34;editing-code&#34;&gt;Editing Code&lt;/h3&gt;
+
+&lt;p&gt;This is the one we try to spend the most time on, and even though searching for the correct command is
+easy with the shortcut above, it is still quicker to memorize these shortcuts and add them to our
+workflow. These will really help you get &lt;em&gt;past&lt;/em&gt; the editor and focus only on the editing.&lt;/p&gt;
+
+&lt;h4 id=&#34;auto-completion&#34;&gt;Auto-Completion&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Tab&lt;/strong&gt; (Mac, Windows, Linux)
+&lt;strong&gt;Enter&lt;/strong&gt; (Mac, Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;comments&#34;&gt;Comments&lt;/h4&gt;
+
+&lt;p&gt;Single Line Comment
+&lt;strong&gt;Command + /&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + /&lt;/strong&gt; (Windows, Linux)
+Multi Line Comment
+&lt;strong&gt;Command + Alt + /&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + Shift + /&lt;/strong&gt; (Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;show-parameters&#34;&gt;Show Parameters&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Command + p&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + p&lt;/strong&gt; (Windows, Linux)
+This one is useful if you can&amp;rsquo;t remember what parameters a method takes.&lt;/p&gt;
+
+&lt;h4 id=&#34;refactoring&#34;&gt;Refactoring&lt;/h4&gt;
+
+&lt;p&gt;Renaming a variable/method/class etc.
+&lt;strong&gt;Shift + F6&lt;/strong&gt; (Mac)
+&lt;strong&gt;Control + F6&lt;/strong&gt; (Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;intelligent-code-generation&#34;&gt;Intelligent Code Generation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Command + N&lt;/strong&gt; (Mac)
+&lt;strong&gt;Alt + Insert&lt;/strong&gt; (Windows, Linux)&lt;/p&gt;
+
+&lt;h4 id=&#34;live-templates&#34;&gt;Live Templates&lt;/h4&gt;
+
+&lt;p&gt;There are dozens of these available by default, and the great thing about Android Studio is that you
+have the freedom to create more if you wish. If you don&amp;rsquo;t know what live templates are, they are
+boilerplate sections of code that gets automatically inserted for you. All you have to do is tab through
+to fill in the variable values.&lt;/p&gt;
+
+&lt;p&gt;A commonly used one is &amp;ldquo;Toast&amp;rdquo;. You type &amp;ldquo;Toast&amp;rdquo; and hit &lt;strong&gt;Tab&lt;/strong&gt; and it automatically gives you this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Toast.makeText(MainActivity.this, &amp;quot;&amp;quot;, Toast.LENGTH_SHORT).show();
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you hit &lt;strong&gt;Tab&lt;/strong&gt; a second time it moves the cursor over to the quotation marks so you can type your
+message, and if you hit &lt;strong&gt;Tab&lt;/strong&gt; one more time it moves your cursor to the end of the line.&lt;/p&gt;
+
+&lt;p&gt;Another common one is to type &amp;ldquo;fori&amp;rdquo; and hit &lt;strong&gt;Tab&lt;/strong&gt;. That gives you this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;for(i = 0; i &amp;lt; ; i++){
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Of course tabbing through allows you to modify the variable name, value, loop length, and finally it
+drops you inside the curly brackets to write the code to be executed.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned there are dozens more and you can create your own. To find all the live templates
+included just search everywhere with &lt;strong&gt;Shift Shift&lt;/strong&gt; and type &amp;ldquo;Live Templates&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Thank you for reading this. I hope some of these tricks will help you become a better and faster
+developer. If you want the full and overwhelming list of shortcuts for Android Studio you can check out
+the list &lt;a href=&#34;https://developer.android.com/studio/intro/keyboard-shortcuts.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As always, please follow me on twitter &lt;a href=&#34;https://www.twitter.com/hoffmanryan1&#34;&gt;@hoffmanryan1&lt;/a&gt; and on
+medium &lt;a href=&#34;https://www.medium.com/@rmhcompanies&#34;&gt;@rmhcompaines&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Android Constraint Layout</title>
