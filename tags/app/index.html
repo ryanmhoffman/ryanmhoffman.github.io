@@ -7,7 +7,7 @@
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Android Studio Libraries With Gradle</title>
+  <title>App</title>
 
   <meta name="author" content="" />
   <meta name="keywords" content="">
@@ -48,9 +48,9 @@
   <link rel="alternate" href="https://ryanmhoffman.github.io/index.xml" type="application/rss+xml" title="Ryan M. Hoffman">
 
   
-  <meta property="og:title" content="Android Studio Libraries With Gradle" />
+  <meta property="og:title" content="App" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/blog/2016/12/01/android-studio-libraries-with-gradle//" />
+  <meta property="og:url" content="/tags/app//" />
   <meta property="og:image" content="img/logo.png" />
 
 </head>
@@ -69,9 +69,9 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="https://ryanmhoffman.github.io/">
-                    <img src="https://ryanmhoffman.github.io/img/logo.png" alt="Android Studio Libraries With Gradle logo" class="hidden-xs hidden-sm">
+                    <img src="https://ryanmhoffman.github.io/img/logo.png" alt="App logo" class="hidden-xs hidden-sm">
                     
-                    <span class="sr-only">Android Studio Libraries With Gradle - go to homepage</span>
+                    <span class="sr-only">App - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -136,7 +136,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Android Studio Libraries With Gradle</h1>
+                <h1>App</h1>
             </div>
         </div>
     </div>
@@ -145,135 +145,59 @@
 
         <div id="content">
             <div class="container">
-
                 <div class="row">
-
                     
 
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-9" id="blog-listing-medium">
 
-                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Ryan M. Hoffman</a> | December 1, 2016</p>
-
-                        <div id="post-content">
-                          
-
-<h1 id="using-libraries-in-android-studio">Using Libraries in Android Studio</h1>
-
-<p><img src="/img/banners/banner_gradle_android.png" style="width: 100%; height: 100%"/></p>
-
-<h2 id="intro-to-gradle-for-android-studio">Intro to Gradle for Android Studio</h2>
-
-<p>Android Studio switched to a gradle based build system a few years ago, and that made it very simple to
-incorporate open source libraries  your Android projects. If you aren&rsquo;t familiar with gradle you can
-learn more about it <a href="https://gradle.org/getting-started-android-build/">here</a>. The details of gradle
-recipes are beyond the scope of this post, but I will show the very basics of including libraries in
-your project. Fortunately gradle makes it dummy-proof to add dependencies in your project. Gradle is not
-the only way to add a library to your project, and if you are familiar with eclipse then you are most
-likely familiar with adding .jar files to your project. This is still possible in Android Studio, but I
-will not be covering that in this post, and I don&rsquo;t recommend it. By using gradle, all you need to do is
-include 1 line of code in you <code>build.gradle</code> file and it does the rest. It pulls in the dependency at
-build time so it doesn&rsquo;t need to be downloaded and included as a .jar file. Even more appealing than that
-is how easy it is to use it with different versions of libraries. With gradle, if you are using
-<code>my-awesome-library:v1.0</code> but then version 2-0 comes out, all you have to do is change that statement
-to <code>my-awesome-library:v2.0</code> and start using the updates immediately. That is much easier than
-deleting the .jar and downloading and adding the new version.</p>
-
-<p>So now that we know the differences let&rsquo;s have a look at adding external libraries with gradle.</p>
-
-<h2 id="adding-libraries-with-gradle">Adding Libraries with Gradle</h2>
-
-<p>When you create a new project in Android Studio it is already preconfigured to use gradle. If you look
-through the project files that are created initially you will find a couple different gradle files. The
-first one is probably your high level project file. This is the gradle file to configure project-wide
-settings. We will not need to modify this file for what we are going to accomplish in this tutorial. Next
-will be the module level gradle files. If you created a simple app with only one module then there will
-only be one module level <code>build.gradle</code>. If you included other modules in your project, for example
-Android Wear, Android TV, or Android Auto then there should be more than one version of this file for
-each module. Each one should be labeled next to it in parentheses describing what it is for.</p>
-
-<pre><code>build.gradle (Project: MyProject)
-build.gradle (Module: mobile)
-build.gradle (Module: wear)
-</code></pre>
-
-<p>The one you need to edit is the <code>build.gradle (Module: mobile)</code> to add the open source library to our
-project. The library we are going to add in this example is Google&rsquo;s
-<a href="https://developer.android.com/training/material/lists-cards.html#CardView">CardView</a> library.</p>
-
-<p>Here&rsquo;s how easy it is to add a library to your project with gradle and Android Studio. Start by opening
-the <code>build.gradle</code> file for the mobile module. Find the section near the bottom labeled
-<code>dependencies</code> and add this line to the bottom of that section:</p>
-
-<pre><code>compile 'com.android.support:cardview-v7:25.0.1'
-</code></pre>
-
-<p>It should look like this:</p>
-
-<pre><code>dependencies {
-  // other module dependencies may be listed here
-  ...
-  compile 'com.android.support:cardview-v7:25.0.1'
-}
-</code></pre>
-
-<p>Once you add that line Android Studio will let you know that gradle files have changed and prompt you to
-sync your project with gradle. Once you do that you can immediately begin using the library in your code.
-If a new version is released just change the version number in your gradle file and sync your project
-again and that&rsquo;s it.</p>
-
-<h2 id="adding-modules">Adding Modules</h2>
-
-<p>I have already mentioned modules above a little bit, but I haven&rsquo;t really explained what they are or what
-they are used for. Modules are basically just portions of code that are broken out into groups to make
-them easily reusable. You can think of them as mini projects within your main project. As I mentioned
-earlier, when you create an app for mobile, wear, auto, and tv, Android Studio automatically sets up each
-as its own module. This is so you can define activities and views for each in their own module without it
-affecting any of the others. But you can also create your own modules. I like to create a module for all
-of the logic and data classes in my apps, that way the code can be shared to each portion of the app.</p>
-
-<p>For instance, if I have an app that has a phone portion and a wear portion, most likely it will pull data
-from a server and both portions will need to use that data. Rather than retrieve that data and use it in
-the phone module, then retrieve and use it in the wear module, I build a separate data module to retrieve
-the data from the server and both the phone and wear modules can use it as necessary from there. Pretty
-much any logic, data loading/storage can be put in modules this way to save writing it all multiple
-times.</p>
-
-<p>Adding a module is quite simple and very similar to adding an external library. In your project there
-should be a <code>settings.gradle</code> file. This file manages what modules are included in your project. It
-should look something like this for the most basic project:</p>
-
-<pre><code>include ':app'
-</code></pre>
-
-<p>To add your module you have to add this, replacing &ldquo;myshinynewmodule&rdquo; with the name of your module or
-library.</p>
-
-<pre><code>include ':app', ':myshinynewmodule'
-</code></pre>
-
-<p>After this you are almost done. There is one final step before you can use the code in your shiny new
-module in your app. As we did with the cardview library earlier, open the <code>build.gradle</code> file for
-your mobile module. In the dependencies section that we modified earlier add this line:</p>
-
-<pre><code>compile project (':myshinynewmodule')
-</code></pre>
-
-<p>That&rsquo;s it. You can now start using the code from your module in your app just as if it were an external
-library.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>I hope this was clear and you were able to learn something about gradle, dependencies, or using modules
-in your Android project. If you have any questions please reach out to me and I&rsquo;d be happy to help. If
-you spot any errors, please let me know about them so I can make this as accurate as possible.
-(BE GENTLE!!) As always, please follow me on twitter
-<a href="https://www.twitter.com/hoffmanryan1">@hoffmanryan1</a> and on medium
-<a href="https://www.medium.com/@rmhcompanies">@rmhcompaines</a>.</p>
-
-                        </div>
                         
                         
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/">
+                                          
+                                          <img src="https://ryanmhoffman.github.io/img/banners/android-logo.png" class="img-responsive" alt="">
+                                          
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/">Friends Android App</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          
+                                          By <a href="#">Ryan M. Hoffman</a>
+                                          
+                                          
+                                          
+                                          in <a href="https://ryanmhoffman.github.io/categories/android">Android</a>
+                                          
+                                          
 
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/"><i class="fa fa-calendar-o"></i> December 20, 2016</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">Friends Android App Friends is an Android app I am currently developing with a planned release in early January 2017. The app is a short-list version of the stock contacts app. Friends pulls in only your starred contacts and gives you easy access to call or text them. It is supposed to be sort of like a speed dial, but for all your favorites instead of just one, and all in one place.</p>
+                                    <p class="read-more"><a href="https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/" class="btn btn-template-main">Continue reading</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                        
+
+                        <ul class="pager">
+                            
+                            <li class="previous disabled"><a href="#">&larr; Newer</a></li>
+                            
+
+                            
+                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
+                            
+                        </ul>
                     </div>
                     
 
@@ -393,7 +317,6 @@ you spot any errors, please let me know about them so I can make this as accurat
 
                 </div>
                 
-
             </div>
             
         </div>
