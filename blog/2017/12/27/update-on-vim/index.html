@@ -7,7 +7,7 @@
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Making This Website</title>
+  <title>Nearly 8 Months with Vim</title>
 
   <meta name="author" content="" />
   <meta name="keywords" content="">
@@ -48,9 +48,9 @@
   <link rel="alternate" href="https://ryanmhoffman.github.io/index.xml" type="application/rss+xml" title="Ryan M. Hoffman">
 
   
-  <meta property="og:title" content="Making This Website" />
+  <meta property="og:title" content="Nearly 8 Months with Vim" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/blog/2016/11/01/making-this-site//" />
+  <meta property="og:url" content="/blog/2017/12/27/update-on-vim//" />
   <meta property="og:image" content="img/logo.png" />
 
 </head>
@@ -69,9 +69,9 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="https://ryanmhoffman.github.io/">
-                    <img src="https://ryanmhoffman.github.io/img/logo.png" alt="Making This Website logo" class="hidden-xs hidden-sm">
+                    <img src="https://ryanmhoffman.github.io/img/logo.png" alt="Nearly 8 Months with Vim logo" class="hidden-xs hidden-sm">
                     
-                    <span class="sr-only">Making This Website - go to homepage</span>
+                    <span class="sr-only">Nearly 8 Months with Vim - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -136,7 +136,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Making This Website</h1>
+                <h1>Nearly 8 Months with Vim</h1>
             </div>
         </div>
     </div>
@@ -152,59 +152,50 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Ryan M. Hoffman</a> | November 1, 2016</p>
+                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Ryan M. Hoffman</a> | December 27, 2017</p>
 
                         <div id="post-content">
                           
 
+<h1 id="how-i-feel-about-vim-now">How I Feel About Vim Now</h1>
+
 <h2 id="introduction">Introduction</h2>
 
-<p>I built this website for a couple different purposes. I wanted a place to showcase my portfolio and direct
-potential clients for my freelance business. I also wanted to build a blog. I decided that the two ideas
-related enough to warrant being one site. I also wanted something simple that wouldn&rsquo;t take weeks to
-create and be a nightmare to host. I did some research and settled on using <a href="https://gohugo.io/">hugo</a>, a
-static site generator built with the <a href="https://golang.org/">go programming language</a> by Google. I went with
-a static site because I wanted something fast and easy to develop AND fast when being served. Hugo checked
-both of those boxes. All in from the time I first discovered hugo to the time I deployed this site on
-<a href="https://pages.github.com/">github pages</a> was about 8 hours of work. That was spread over two evenings,
-but you get my point on how easy it was to learn and use.</p>
+<p>This post is a follow up on a post I wrote several months ago about my starting point with Vim. If you missed that post, you can
+read it <a href="https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/">here</a>. That details how and when I started with Vim nearly 8 months ago.
+Now it is an integral part of my workflow. It is my only text editor, and I don&rsquo;t know how I lived without it before. The intention
+isn&rsquo;t to preach Vim here and force it on anyone; I am merely chronicling my adventures in learning this editor.</p>
 
-<h2 id="design">Design</h2>
+<h2 id="how-i-use-vim">How I use Vim</h2>
 
-<p>I wanted something modern that would scale well across desktop and mobile, and again hugo had me covered.
-there are tons of <a href="https://themes.gohugo.io/">themes</a> for hugo that make design a breeze. I ended up
-choosing <a href="https://themes.gohugo.io/hugo-universal-theme/">universial theme</a>. This had everything I was
-looking for and was a joy to work with and modify to suit my needs. Shout-out to <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>
-for creating the original design and to <a href="https://www.devcows.com/">DevCows</a> for porting it to hugo.
-Fantastic job!</p>
+<p>Vim is my general text editor now, used for pretty much everything but Java and Kotlin (Android development). I use it for
+Python, editing my configs, even writing this post in Markdown. I have personalized my vimrc a little bit, but it is actually
+still very small. I use a few plugins too, but again they are very few. I have found that Vim does a lot of things that many
+people might not know about and try to use plugins for.</p>
 
-<h2 id="development">Development</h2>
+<p>Beyond jusing actual Vim in the terminal, I also have begun using plugins wherever possible to add Vim bindings to different
+applications. I have added IdeaVim to Intellij Idea and Android Studio to configure as many keys as possible to behave like
+Vim. It is very good, but not perfect. It definitely is good enough to recommend to about any Vim user out there. I also use
+Vimium extension in Vivaldi, my browser. It is an extension for Chrome technically, but since Vivaldi is based on the
+chromium open source project same as Chrome, the extensions mostly work on it. Vimium uses many of the navigation key bindings
+from Vim and adds some to help with link navigation etc. It makes it possible to use the broswer mostly without a mouse.</p>
 
-<p>As I mentioned earlier this took me about 8 hours total to build. I was expecting to spend a week or more
-easily, as building a portfolio site and a blog is a relatively small project but by no means is it &ldquo;easy.&rdquo;
-The blog is probably my favorite part. Publishing a new blog post is as simple as copying the markdown
-file into a folder, rebuilding the site and seeing it pop up.</p>
+<h2 id="my-vim-configuration">My Vim Configuration</h2>
 
-<p>Since it is a static site and there is no database or php/node.js etc., there aren&rsquo;t any comments&hellip; or
-so you would think. But with <a href="https://disqus.com/">Disqus</a> it is very easy to add comments even without
-any of the server side scripts. Currently I don&rsquo;t have this enabled, but it is something I might look into
-in the future.</p>
+<p>My Vim config is pretty small, but it does have some changes, almost none are unique to me. I find things from other people&rsquo;s
+configs and use them, just like everyone else does. Some big changes I have made are remapping the escape key to jj. Other
+than typing it right there, I have never had to type two j&rsquo;s together before, so it is a safe string to use. It is on the
+home row so I don&rsquo;t have to stretch for escape every time I want to exit insert mode. For plugins, I have added Nerdtree
+for easy file navigation, I added YouCompleteMe code completion engine, and I have added powerline. I use relative line
+numbers for easy jumping from line to line. The last customizations I made are just visual, I use syntax highlighting and
+the color scheme I have set is darcula, which looks like the theme of the same name in Jetbrains IDEs.</p>
 
-<p>Another genius feature included was in the <a href="/contact/">contact</a> section. Again, no server side scripts to
-handle the form, but it was all thought out. <a href="https://formspree.io/">Formspree.io</a> is included to handle
-all of the emails to make sure you get them delivered to your inbox. It is a very straightforward setup,
-and the best part is it&rsquo;s free! If you exceed 1000 emails in a month there is a subscription plan, but I&rsquo;m
-not there yet.</p>
+<h2 id="where-i-m-going-from-here">Where I&rsquo;m Going From Here</h2>
 
-<h2 id="conclusion">Conclusion</h2>
-
-<p>This has been a great experience using hugo to build my website. I&rsquo;m very happy with the outcome, and I
-would highly recommend checking it out. I may come back and update this after spending more time
-maintaining and updating the site, but currently I&rsquo;m thrilled.</p>
-
-<p>In the mean time, please continue to check back periodically. I add new content weekly. For even more
-frequent updates follow my on twitter <a href="https://www.twitter.com/hoffmanryan1">@hoffmanryan1</a> and you can
-check out my non-tech related ramblings over at my blog on medium <a href="https://www.medium.com/@rmhcompanies">@rmhcompanies</a>.</p>
+<p>Vim is my main editor now, and I can&rsquo;t see myself switching any time soon. That doesn&rsquo;t mean I will never try something else,
+but I have become so much more productive with Vim that it feels like a waste to use anything else now. I don&rsquo;t want to be
+a vim evangelist, preaching it to all. It simply is the best editor for me and my workflow. That does not mean it is for
+everyone, nor should it be. I might make tutorials some day about Vim, but for now, I am just a happy user.</p>
 
                         </div>
                         
