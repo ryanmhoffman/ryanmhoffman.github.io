@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/text-editor/index.xml</link>
+    <link>https://www.provision-software.com/tags/text-editor/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/text-editor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/text-editor/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nearly 8 Months with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</link>
       <pubDate>Wed, 27 Dec 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;how-i-feel-about-vim-now&#34;&gt;How I Feel About Vim Now&lt;/h1&gt;
@@ -22,7 +22,7 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This post is a follow up on a post I wrote several months ago about my starting point with Vim. If you missed that post, you can
-read it &lt;a href=&#34;https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
+read it &lt;a href=&#34;https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
 Now it is an integral part of my workflow. It is my only text editor, and I don&amp;rsquo;t know how I lived without it before. The intention
 isn&amp;rsquo;t to preach Vim here and force it on anyone; I am merely chronicling my adventures in learning this editor.&lt;/p&gt;
 
@@ -61,10 +61,10 @@ everyone, nor should it be. I might make tutorials some day about Vim, but for n
     
     <item>
       <title>Getting Started with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</link>
       <pubDate>Fri, 28 Apr 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-started-with-vim&#34;&gt;Getting Started with Vim&lt;/h1&gt;

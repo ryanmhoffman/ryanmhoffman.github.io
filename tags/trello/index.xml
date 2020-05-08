@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/trello/index.xml</link>
+    <link>https://www.provision-software.com/tags/trello/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/trello/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/trello/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Review of Github Projects</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/06/github-projects-vs-trello/</link>
+      <link>https://www.provision-software.com/blog/2016/12/06/github-projects-vs-trello/</link>
       <pubDate>Tue, 06 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/06/github-projects-vs-trello/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/06/github-projects-vs-trello/</guid>
       <description>
 
 &lt;h1 id=&#34;github-projects-vs-trello&#34;&gt;Github Projects vs Trello&lt;/h1&gt;
@@ -30,7 +30,7 @@ install and configure and so they wouldn&amp;rsquo;t have to leave Github.&lt;/p
 with it I had mixed feelings. Honestly it looks promising and it even seems to be useful right now, but it
 felt like a very unashamed copy of Trello but without many of the features.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/banner-github-projects.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/banner-github-projects.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;If you aren&amp;rsquo;t familiar with &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt;, it is a project management app used for team
 collaboration and customizable workflow implementation. Sound familiar? The layout on Trello is list
@@ -38,7 +38,7 @@ based; you define lists, and within each list you can add cards. As you work on 
 them between the lists to mean different things depending on your setup, and you can do all sorts of other
 things like comment on cards, assign users to cards, set due dates and dozens of other things.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/trello.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/trello.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;how-github-projects-is-useful&#34;&gt;How Github Projects is Useful&lt;/h2&gt;
 

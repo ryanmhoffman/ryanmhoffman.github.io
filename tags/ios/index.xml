@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/ios/index.xml</link>
+    <link>https://www.provision-software.com/tags/ios/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Can React Native compare and compete with true native code?</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</link>
+      <link>https://www.provision-software.com/blog/2018/01/28/react-native/</link>
       <pubDate>Sun, 28 Jan 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</guid>
+      <guid>https://www.provision-software.com/blog/2018/01/28/react-native/</guid>
       <description>
 
 &lt;h1 id=&#34;why-write-this-article&#34;&gt;Why Write this Article?&lt;/h1&gt;
@@ -95,10 +95,10 @@ topics. Until next time, happy coding!&lt;/p&gt;
     
     <item>
       <title>Mobile Development: Native vs Cross-Platform</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</link>
+      <link>https://www.provision-software.com/blog/2016/11/01/mobile-native-vs-cross-platform/</link>
       <pubDate>Tue, 01 Nov 2016 13:07:31 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/01/mobile-native-vs-cross-platform/</guid>
       <description>
 
 &lt;h3 id=&#34;should-you-even-develop-for-mobile&#34;&gt;Should You Even Develop for Mobile?&lt;/h3&gt;
@@ -113,7 +113,7 @@ third of our waking hours each day! If you want some of that screen time to be d
 you better think very carefully about what type of app you want to deliver to your users. So what will it
 be, native or cross-platform?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/mobile-development.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;the-case-for-native-apps&#34;&gt;The Case for Native Apps&lt;/h3&gt;
 
@@ -177,7 +177,7 @@ their app stores and have good looking apps for them too.&lt;/p&gt;
 in speed as well although I doubt it if you are simply converting a website into a web app. The biggest
 drawback will be trying to implement new features and meet the design standards of each platform.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/mobile-development-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;which-is-right-for-you&#34;&gt;Which Is Right For You?&lt;/h3&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/web-design/index.xml</link>
+    <link>https://www.provision-software.com/tags/web-design/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mobile Friendly Websites</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</link>
+      <link>https://www.provision-software.com/blog/2016/11/03/mobile-friendly-websites/</link>
       <pubDate>Thu, 03 Nov 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/03/mobile-friendly-websites/</guid>
       <description>
 
 &lt;h2 id=&#34;why-should-i-make-my-website-mobile-friendly&#34;&gt;Why Should I Make My Website Mobile Friendly?&lt;/h2&gt;
@@ -37,7 +37,7 @@ you have the technical knowledge you can migrate an entire smaller website in ju
 began freelancing in my spare time, and I love it. You can hire a freelancer to either update or completely rebuild your website and it
 will be mobile friendly from the ground up.&lt;/p&gt;
 
-&lt;p&gt;If you think it is time to redo your website and aren&amp;rsquo;t sure where to start, please feel free to &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me. I do freelance
+&lt;p&gt;If you think it is time to redo your website and aren&amp;rsquo;t sure where to start, please feel free to &lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; me. I do freelance
 web design and development and I would love to work with you on your next project.&lt;/p&gt;
 
 &lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
@@ -50,10 +50,10 @@ web design and development and I would love to work with you on your next projec
     
     <item>
       <title>Making This Website</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</link>
+      <link>https://www.provision-software.com/blog/2016/11/01/making-this-site/</link>
       <pubDate>Tue, 01 Nov 2016 03:39:46 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/01/making-this-site/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -89,7 +89,7 @@ so you would think. But with &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&
 any of the server side scripts. Currently I don&amp;rsquo;t have this enabled, but it is something I might look into
 in the future.&lt;/p&gt;
 
-&lt;p&gt;Another genius feature included was in the &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; section. Again, no server side scripts to
+&lt;p&gt;Another genius feature included was in the &lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; section. Again, no server side scripts to
 handle the form, but it was all thought out. &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree.io&lt;/a&gt; is included to handle
 all of the emails to make sure you get them delivered to your inbox. It is a very straightforward setup,
 and the best part is it&amp;rsquo;s free! If you exceed 1000 emails in a month there is a subscription plan, but I&amp;rsquo;m

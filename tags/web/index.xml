@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/web/index.xml</link>
+    <link>https://www.provision-software.com/tags/web/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RMH Trucking Sample Site</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</link>
+      <link>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</link>
       <pubDate>Tue, 05 Jun 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</guid>
+      <guid>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</guid>
       <description>
 
 &lt;h1 id=&#34;rmh-trucking-small-sample-site&#34;&gt;RMH Trucking Small Sample Site&lt;/h1&gt;
@@ -43,7 +43,7 @@ drivers can find the company and easily get in contact with them.&lt;/p&gt;
 
 &lt;p&gt;I will come back and update this with the other sample sites once they are created, so stay tuned for those updates. If you
 are looking to have a site built or redesigned for your trucking company (or any other company), feel free to
-&lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
+&lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
 </description>
     </item>
     

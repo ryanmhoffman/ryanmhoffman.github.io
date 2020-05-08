@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/development/index.xml</link>
+    <link>https://www.provision-software.com/tags/development/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RMH Trucking Sample Site</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</link>
+      <link>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</link>
       <pubDate>Tue, 05 Jun 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</guid>
+      <guid>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</guid>
       <description>
 
 &lt;h1 id=&#34;rmh-trucking-small-sample-site&#34;&gt;RMH Trucking Small Sample Site&lt;/h1&gt;
@@ -43,16 +43,16 @@ drivers can find the company and easily get in contact with them.&lt;/p&gt;
 
 &lt;p&gt;I will come back and update this with the other sample sites once they are created, so stay tuned for those updates. If you
 are looking to have a site built or redesigned for your trucking company (or any other company), feel free to
-&lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
+&lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Can React Native compare and compete with true native code?</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</link>
+      <link>https://www.provision-software.com/blog/2018/01/28/react-native/</link>
       <pubDate>Sun, 28 Jan 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</guid>
+      <guid>https://www.provision-software.com/blog/2018/01/28/react-native/</guid>
       <description>
 
 &lt;h1 id=&#34;why-write-this-article&#34;&gt;Why Write this Article?&lt;/h1&gt;
@@ -133,10 +133,10 @@ topics. Until next time, happy coding!&lt;/p&gt;
     
     <item>
       <title>Nearly 8 Months with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</link>
       <pubDate>Wed, 27 Dec 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;how-i-feel-about-vim-now&#34;&gt;How I Feel About Vim Now&lt;/h1&gt;
@@ -144,7 +144,7 @@ topics. Until next time, happy coding!&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This post is a follow up on a post I wrote several months ago about my starting point with Vim. If you missed that post, you can
-read it &lt;a href=&#34;https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
+read it &lt;a href=&#34;https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
 Now it is an integral part of my workflow. It is my only text editor, and I don&amp;rsquo;t know how I lived without it before. The intention
 isn&amp;rsquo;t to preach Vim here and force it on anyone; I am merely chronicling my adventures in learning this editor.&lt;/p&gt;
 
@@ -183,10 +183,10 @@ everyone, nor should it be. I might make tutorials some day about Vim, but for n
     
     <item>
       <title>Getting Started with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</link>
       <pubDate>Fri, 28 Apr 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-started-with-vim&#34;&gt;Getting Started with Vim&lt;/h1&gt;
@@ -228,10 +228,10 @@ I need Vim everywhere. Stay tuned for the update next month and happy Vimming!&l
     
     <item>
       <title>Android Terminology Overview</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/03/01/android-terminology/</link>
+      <link>https://www.provision-software.com/blog/2017/03/01/android-terminology/</link>
       <pubDate>Wed, 01 Mar 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/03/01/android-terminology/</guid>
+      <guid>https://www.provision-software.com/blog/2017/03/01/android-terminology/</guid>
       <description>
 
 &lt;h1 id=&#34;android-unit-of-measure-terminology&#34;&gt;Android Unit of Measure Terminology&lt;/h1&gt;
@@ -290,10 +290,10 @@ I need Vim everywhere. Stay tuned for the update next month and happy Vimming!&l
     
     <item>
       <title>Friends Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</link>
       <pubDate>Tue, 20 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</guid>
       <description>
 
 &lt;h1 id=&#34;friends-android-app&#34;&gt;Friends Android App&lt;/h1&gt;
@@ -357,7 +357,7 @@ alphabetical order. That was relatively simple to implement and makes it much ea
 the person you are looking for. If you want to check it out please download it from the Play Store and
 leave me a review letting me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://ryanmhoffman.github.io/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://www.provision-software.com/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

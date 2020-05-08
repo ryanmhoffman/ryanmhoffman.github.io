@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/programming/index.xml</link>
+    <link>https://www.provision-software.com/tags/programming/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Friends Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</link>
       <pubDate>Tue, 20 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</guid>
       <description>
 
 &lt;h1 id=&#34;friends-android-app&#34;&gt;Friends Android App&lt;/h1&gt;
@@ -78,21 +78,21 @@ alphabetical order. That was relatively simple to implement and makes it much ea
 the person you are looking for. If you want to check it out please download it from the Play Store and
 leave me a review letting me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://ryanmhoffman.github.io/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://www.provision-software.com/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Android Studio Libraries With Gradle</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
+      <link>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
       <pubDate>Thu, 01 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
       <description>
 
 &lt;h1 id=&#34;using-libraries-in-android-studio&#34;&gt;Using Libraries in Android Studio&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;intro-to-gradle-for-android-studio&#34;&gt;Intro to Gradle for Android Studio&lt;/h2&gt;
 
@@ -207,15 +207,15 @@ you spot any errors, please let me know about them so I can make this as accurat
     
     <item>
       <title>Android Studio Keyboard Shortcuts</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</link>
+      <link>https://www.provision-software.com/blog/2016/11/21/android-studio-shortcuts/</link>
       <pubDate>Mon, 21 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/21/android-studio-shortcuts/</guid>
       <description>
 
 &lt;h2 id=&#34;android-studio-shortcuts&#34;&gt;Android Studio Shortcuts&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/android-studio.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/android-studio.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have used Android Studio for even a short time I&amp;rsquo;m sure you have found some shortcuts and hot keys
 to speed up your coding and keep your hands on the keyboard where they belong! I&amp;rsquo;m going to run through
@@ -343,10 +343,10 @@ medium &lt;a href=&#34;https://www.medium.com/@rmhcompanies&#34;&gt;@rmhcompaine
     
     <item>
       <title>Android Constraint Layout</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</link>
+      <link>https://www.provision-software.com/blog/2016/11/15/constraint-layout/</link>
       <pubDate>Tue, 15 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/15/constraint-layout/</guid>
       <description>
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -380,7 +380,7 @@ supposed to help improve performance and make it scale across different screen s
 tested performance or scalability so I don&amp;rsquo;t know if it is actually better in those regards. If you run
 any tests please let me know the results, I&amp;rsquo;ll add them here and credit you.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/layout-editor.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/layout-editor.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;after-using-it-to-design-screens&#34;&gt;After Using it to Design Screens&lt;/h2&gt;
 
@@ -426,10 +426,10 @@ may even write a tutorial.&lt;/p&gt;
     
     <item>
       <title>CBT Velocity Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</link>
       <pubDate>Wed, 02 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</guid>
       <description>
 
 &lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;
@@ -463,7 +463,7 @@ activity, they should be able to log in and securely pay us right from within th
 &lt;p&gt;The whole app is open source, please check it out at &lt;a href=&#34;https://github.com/ernieb4768/CBTVelocity&#34;&gt;github&lt;/a&gt;
 and let me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     

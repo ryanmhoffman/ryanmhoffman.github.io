@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/apps/index.xml</link>
+    <link>https://www.provision-software.com/tags/apps/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CBT Velocity Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</link>
       <pubDate>Wed, 02 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</guid>
       <description>
 
 &lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;
@@ -48,7 +48,7 @@ activity, they should be able to log in and securely pay us right from within th
 &lt;p&gt;The whole app is open source, please check it out at &lt;a href=&#34;https://github.com/ernieb4768/CBTVelocity&#34;&gt;github&lt;/a&gt;
 and let me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     

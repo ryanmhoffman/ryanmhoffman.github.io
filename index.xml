@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/index.xml</link>
+    <link>https://www.provision-software.com/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
     <lastBuildDate>Tue, 05 Jun 2018 13:47:08 +0200</lastBuildDate>
-    <atom:link href="https://ryanmhoffman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RMH Trucking Sample Site</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</link>
+      <link>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</link>
       <pubDate>Tue, 05 Jun 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/06/05/rmh-trucking/</guid>
+      <guid>https://www.provision-software.com/blog/2018/06/05/rmh-trucking/</guid>
       <description>
 
 &lt;h1 id=&#34;rmh-trucking-small-sample-site&#34;&gt;RMH Trucking Small Sample Site&lt;/h1&gt;
@@ -44,16 +44,16 @@ drivers can find the company and easily get in contact with them.&lt;/p&gt;
 
 &lt;p&gt;I will come back and update this with the other sample sites once they are created, so stay tuned for those updates. If you
 are looking to have a site built or redesigned for your trucking company (or any other company), feel free to
-&lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
+&lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; me for more details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Can React Native compare and compete with true native code?</title>
-      <link>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</link>
+      <link>https://www.provision-software.com/blog/2018/01/28/react-native/</link>
       <pubDate>Sun, 28 Jan 2018 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2018/01/28/react-native/</guid>
+      <guid>https://www.provision-software.com/blog/2018/01/28/react-native/</guid>
       <description>
 
 &lt;h1 id=&#34;why-write-this-article&#34;&gt;Why Write this Article?&lt;/h1&gt;
@@ -134,10 +134,10 @@ topics. Until next time, happy coding!&lt;/p&gt;
     
     <item>
       <title>Nearly 8 Months with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</link>
       <pubDate>Wed, 27 Dec 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/12/27/update-on-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/12/27/update-on-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;how-i-feel-about-vim-now&#34;&gt;How I Feel About Vim Now&lt;/h1&gt;
@@ -145,7 +145,7 @@ topics. Until next time, happy coding!&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This post is a follow up on a post I wrote several months ago about my starting point with Vim. If you missed that post, you can
-read it &lt;a href=&#34;https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
+read it &lt;a href=&#34;https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/&#34;&gt;here&lt;/a&gt;. That details how and when I started with Vim nearly 8 months ago.
 Now it is an integral part of my workflow. It is my only text editor, and I don&amp;rsquo;t know how I lived without it before. The intention
 isn&amp;rsquo;t to preach Vim here and force it on anyone; I am merely chronicling my adventures in learning this editor.&lt;/p&gt;
 
@@ -184,10 +184,10 @@ everyone, nor should it be. I might make tutorials some day about Vim, but for n
     
     <item>
       <title>Getting Started with Vim</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</link>
+      <link>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</link>
       <pubDate>Fri, 28 Apr 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/04/28/getting-started-with-vim/</guid>
+      <guid>https://www.provision-software.com/blog/2017/04/28/getting-started-with-vim/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-started-with-vim&#34;&gt;Getting Started with Vim&lt;/h1&gt;
@@ -229,10 +229,10 @@ I need Vim everywhere. Stay tuned for the update next month and happy Vimming!&l
     
     <item>
       <title>Android Terminology Overview</title>
-      <link>https://ryanmhoffman.github.io/blog/2017/03/01/android-terminology/</link>
+      <link>https://www.provision-software.com/blog/2017/03/01/android-terminology/</link>
       <pubDate>Wed, 01 Mar 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2017/03/01/android-terminology/</guid>
+      <guid>https://www.provision-software.com/blog/2017/03/01/android-terminology/</guid>
       <description>
 
 &lt;h1 id=&#34;android-unit-of-measure-terminology&#34;&gt;Android Unit of Measure Terminology&lt;/h1&gt;
@@ -291,10 +291,10 @@ I need Vim everywhere. Stay tuned for the update next month and happy Vimming!&l
     
     <item>
       <title>Friends Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</link>
       <pubDate>Tue, 20 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/20/friends-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/20/friends-android-app/</guid>
       <description>
 
 &lt;h1 id=&#34;friends-android-app&#34;&gt;Friends Android App&lt;/h1&gt;
@@ -358,16 +358,16 @@ alphabetical order. That was relatively simple to implement and makes it much ea
 the person you are looking for. If you want to check it out please download it from the Play Store and
 leave me a review letting me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://ryanmhoffman.github.io/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#39;https://play.google.com/store/apps/details?id=com.software.rmh.friends&#39;&gt;&lt;img src=&#39;https://www.provision-software.com/img/google-play-badge.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Review of Github Projects</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/06/github-projects-vs-trello/</link>
+      <link>https://www.provision-software.com/blog/2016/12/06/github-projects-vs-trello/</link>
       <pubDate>Tue, 06 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/06/github-projects-vs-trello/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/06/github-projects-vs-trello/</guid>
       <description>
 
 &lt;h1 id=&#34;github-projects-vs-trello&#34;&gt;Github Projects vs Trello&lt;/h1&gt;
@@ -383,7 +383,7 @@ install and configure and so they wouldn&amp;rsquo;t have to leave Github.&lt;/p
 with it I had mixed feelings. Honestly it looks promising and it even seems to be useful right now, but it
 felt like a very unashamed copy of Trello but without many of the features.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/banner-github-projects.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/banner-github-projects.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;If you aren&amp;rsquo;t familiar with &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt;, it is a project management app used for team
 collaboration and customizable workflow implementation. Sound familiar? The layout on Trello is list
@@ -391,7 +391,7 @@ based; you define lists, and within each list you can add cards. As you work on 
 them between the lists to mean different things depending on your setup, and you can do all sorts of other
 things like comment on cards, assign users to cards, set due dates and dozens of other things.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/trello.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/trello.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;how-github-projects-is-useful&#34;&gt;How Github Projects is Useful&lt;/h2&gt;
 
@@ -451,15 +451,15 @@ basic form, but my main project management is going to remain with Trello.&lt;/p
     
     <item>
       <title>Android Studio Libraries With Gradle</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
+      <link>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
       <pubDate>Thu, 01 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
       <description>
 
 &lt;h1 id=&#34;using-libraries-in-android-studio&#34;&gt;Using Libraries in Android Studio&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;intro-to-gradle-for-android-studio&#34;&gt;Intro to Gradle for Android Studio&lt;/h2&gt;
 
@@ -574,15 +574,15 @@ you spot any errors, please let me know about them so I can make this as accurat
     
     <item>
       <title>Android Studio Keyboard Shortcuts</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</link>
+      <link>https://www.provision-software.com/blog/2016/11/21/android-studio-shortcuts/</link>
       <pubDate>Mon, 21 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/21/android-studio-shortcuts/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/21/android-studio-shortcuts/</guid>
       <description>
 
 &lt;h2 id=&#34;android-studio-shortcuts&#34;&gt;Android Studio Shortcuts&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/android-studio.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/android-studio.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have used Android Studio for even a short time I&amp;rsquo;m sure you have found some shortcuts and hot keys
 to speed up your coding and keep your hands on the keyboard where they belong! I&amp;rsquo;m going to run through
@@ -710,10 +710,10 @@ medium &lt;a href=&#34;https://www.medium.com/@rmhcompanies&#34;&gt;@rmhcompaine
     
     <item>
       <title>Android Constraint Layout</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</link>
+      <link>https://www.provision-software.com/blog/2016/11/15/constraint-layout/</link>
       <pubDate>Tue, 15 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/15/constraint-layout/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/15/constraint-layout/</guid>
       <description>
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -747,7 +747,7 @@ supposed to help improve performance and make it scale across different screen s
 tested performance or scalability so I don&amp;rsquo;t know if it is actually better in those regards. If you run
 any tests please let me know the results, I&amp;rsquo;ll add them here and credit you.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/layout-editor.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/layout-editor.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;after-using-it-to-design-screens&#34;&gt;After Using it to Design Screens&lt;/h2&gt;
 
@@ -793,10 +793,10 @@ may even write a tutorial.&lt;/p&gt;
     
     <item>
       <title>Mobile Friendly Websites</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</link>
+      <link>https://www.provision-software.com/blog/2016/11/03/mobile-friendly-websites/</link>
       <pubDate>Thu, 03 Nov 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/03/mobile-friendly-websites/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/03/mobile-friendly-websites/</guid>
       <description>
 
 &lt;h2 id=&#34;why-should-i-make-my-website-mobile-friendly&#34;&gt;Why Should I Make My Website Mobile Friendly?&lt;/h2&gt;
@@ -819,7 +819,7 @@ you have the technical knowledge you can migrate an entire smaller website in ju
 began freelancing in my spare time, and I love it. You can hire a freelancer to either update or completely rebuild your website and it
 will be mobile friendly from the ground up.&lt;/p&gt;
 
-&lt;p&gt;If you think it is time to redo your website and aren&amp;rsquo;t sure where to start, please feel free to &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; me. I do freelance
+&lt;p&gt;If you think it is time to redo your website and aren&amp;rsquo;t sure where to start, please feel free to &lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; me. I do freelance
 web design and development and I would love to work with you on your next project.&lt;/p&gt;
 
 &lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
@@ -832,10 +832,10 @@ web design and development and I would love to work with you on your next projec
     
     <item>
       <title>CBT Velocity Android App</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</link>
+      <link>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</link>
       <pubDate>Wed, 02 Nov 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/02/velocity-android-app/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/02/velocity-android-app/</guid>
       <description>
 
 &lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;
@@ -869,16 +869,16 @@ activity, they should be able to log in and securely pay us right from within th
 &lt;p&gt;The whole app is open source, please check it out at &lt;a href=&#34;https://github.com/ernieb4768/CBTVelocity&#34;&gt;github&lt;/a&gt;
 and let me know what you think!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-activities.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-about-us.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt; &lt;img src=&#34;https://www.provision-software.com/img/banners/cbt-velocity-nav-drawer.png&#34; style=&#34;width: 33%; height: 33%; padding: 5px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile Development: Native vs Cross-Platform</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</link>
+      <link>https://www.provision-software.com/blog/2016/11/01/mobile-native-vs-cross-platform/</link>
       <pubDate>Tue, 01 Nov 2016 13:07:31 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/mobile-native-vs-cross-platform/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/01/mobile-native-vs-cross-platform/</guid>
       <description>
 
 &lt;h3 id=&#34;should-you-even-develop-for-mobile&#34;&gt;Should You Even Develop for Mobile?&lt;/h3&gt;
@@ -893,7 +893,7 @@ third of our waking hours each day! If you want some of that screen time to be d
 you better think very carefully about what type of app you want to deliver to your users. So what will it
 be, native or cross-platform?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/mobile-development.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;the-case-for-native-apps&#34;&gt;The Case for Native Apps&lt;/h3&gt;
 
@@ -957,7 +957,7 @@ their app stores and have good looking apps for them too.&lt;/p&gt;
 in speed as well although I doubt it if you are simply converting a website into a web app. The biggest
 drawback will be trying to implement new features and meet the design standards of each platform.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/mobile-development-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/mobile-development-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;which-is-right-for-you&#34;&gt;Which Is Right For You?&lt;/h3&gt;
 
@@ -977,10 +977,10 @@ and update from there. Good luck and happy developing!&lt;/p&gt;
     
     <item>
       <title>Making This Website</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</link>
+      <link>https://www.provision-software.com/blog/2016/11/01/making-this-site/</link>
       <pubDate>Tue, 01 Nov 2016 03:39:46 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/11/01/making-this-site/</guid>
+      <guid>https://www.provision-software.com/blog/2016/11/01/making-this-site/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1016,7 +1016,7 @@ so you would think. But with &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&
 any of the server side scripts. Currently I don&amp;rsquo;t have this enabled, but it is something I might look into
 in the future.&lt;/p&gt;
 
-&lt;p&gt;Another genius feature included was in the &lt;a href=&#34;https://ryanmhoffman.github.io/contact/&#34;&gt;contact&lt;/a&gt; section. Again, no server side scripts to
+&lt;p&gt;Another genius feature included was in the &lt;a href=&#34;https://www.provision-software.com/contact/&#34;&gt;contact&lt;/a&gt; section. Again, no server side scripts to
 handle the form, but it was all thought out. &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree.io&lt;/a&gt; is included to handle
 all of the emails to make sure you get them delivered to your inbox. It is a very straightforward setup,
 and the best part is it&amp;rsquo;s free! If you exceed 1000 emails in a month there is a subscription plan, but I&amp;rsquo;m
@@ -1036,10 +1036,10 @@ check out my non-tech related ramblings over at my blog on medium &lt;a href=&#3
     
     <item>
       <title>Contact</title>
-      <link>https://ryanmhoffman.github.io/contact/</link>
+      <link>https://www.provision-software.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/contact/</guid>
+      <guid>https://www.provision-software.com/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provision Software LLC</title>
-    <link>https://ryanmhoffman.github.io/tags/gradle/index.xml</link>
+    <link>https://www.provision-software.com/tags/gradle/index.xml</link>
     <description>Recent content on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2020 Provision Software LLC; all rights reserved.</copyright>
-    <atom:link href="https://ryanmhoffman.github.io/tags/gradle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.provision-software.com/tags/gradle/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android Studio Libraries With Gradle</title>
-      <link>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
+      <link>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</link>
       <pubDate>Thu, 01 Dec 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://ryanmhoffman.github.io/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
+      <guid>https://www.provision-software.com/blog/2016/12/01/android-studio-libraries-with-gradle/</guid>
       <description>
 
 &lt;h1 id=&#34;using-libraries-in-android-studio&#34;&gt;Using Libraries in Android Studio&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ryanmhoffman.github.io/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.provision-software.com/img/banners/banner_gradle_android.png&#34; style=&#34;width: 100%; height: 100%&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;intro-to-gradle-for-android-studio&#34;&gt;Intro to Gradle for Android Studio&lt;/h2&gt;
 
