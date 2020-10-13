@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Provision Software LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="http://www.provision-software.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Development</title>
       <link>http://www.provision-software.com/categories/development/</link>
-      <pubDate>Sun, 28 Jan 2018 13:47:08 +0200</pubDate>
+      <pubDate>Tue, 13 Oct 2020 13:47:08 +0200</pubDate>
       
       <guid>http://www.provision-software.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://www.provision-software.com/categories/web/</link>
+      <pubDate>Tue, 13 Oct 2020 13:47:08 +0200</pubDate>
+      
+      <guid>http://www.provision-software.com/categories/web/</guid>
       <description></description>
     </item>
     

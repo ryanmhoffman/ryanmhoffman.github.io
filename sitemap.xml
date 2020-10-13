@@ -3,32 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.provision-software.com/blog/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/categories/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/blog/2020/10/13/cedar-gallery/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/tags/development/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/categories/development/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/tags/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/categories/web/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/tags/web-dev/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.provision-software.com/tags/website-development/</loc>
+    <lastmod>2020-10-13T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.provision-software.com/tags/android/</loc>
     <lastmod>2018-01-28T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.provision-software.com/blog/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.provision-software.com/blog/2018/01/28/react-native/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.provision-software.com/categories/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.provision-software.com/tags/development/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.provision-software.com/categories/development/</loc>
     <lastmod>2018-01-28T13:47:08+02:00</lastmod>
   </url>
   
@@ -43,17 +73,7 @@
   </url>
   
   <url>
-    <loc>http://www.provision-software.com/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.provision-software.com/tags/react-native/</loc>
-    <lastmod>2018-01-28T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.provision-software.com/tags/</loc>
     <lastmod>2018-01-28T13:47:08+02:00</lastmod>
   </url>
   
